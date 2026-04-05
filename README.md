@@ -53,7 +53,21 @@ You can also draw. If you decide to draw, you take 5 cards of the pile.
 
 The goal is to get as many points at the end.
 
+
 If the draw-pile is empty, and you can't draw anymore, then you fold; you put your cards in front of you on the table, open, so everyone can see, and you stop playing.
+
+<img width="1280" height="720" alt="Ways to Play" src="https://github.com/user-attachments/assets/8fc00334-b104-4070-983f-9b387627f5a8" />
+
+Foolshand is a game that (as stated previously) can be played with a standard 52-card deck, with an additional 3 jokers. But, while you can play it in real life, you can also play solo rounds online!
+
+On the release page of this GitHub repository you can find the Windows and Android versions of Foolshand!
+
+<img width="1280" height="720" alt="Copyright" src="https://github.com/user-attachments/assets/ebb9d320-55df-466c-a44f-3e1d2e06334e" />
+
+Foolshand is a game created by StudioDeurbel. The Foolshand name, logo and video-game adaption(s) are owned by StudioDeurbel.
+
+
+
 
 
 
