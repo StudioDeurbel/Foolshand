@@ -56,4 +56,4 @@ The goal is to get as many points at the end.
 If the draw-pile is empty, and you can't draw anymore, then you fold; you put your cards in front of you on the table, open, so everyone can see, and you stop playing.
 
 
-Translated with DeepL.com (free version)
+
